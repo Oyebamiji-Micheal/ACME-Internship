@@ -4,3 +4,4 @@
 01-sentiment-analysis/datasets/musicoset-dataset.rar
 01-sentiment-analysis/notebook/.ipynb_checkpoints/sentiment-analysis-checkpoint.ipynb
 01-sentiment-analysis/venv/
+01-sentiment-analysis/__pycache__/sentiment_analysis.cpython-39.pyc
